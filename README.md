@@ -1,2 +1,2 @@
 # Lab 6 - Starter
-https://github.com/efang5/Lab6_Starter
+https://efang5.github.io/Lab6_Starter/
